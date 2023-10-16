@@ -1,0 +1,5 @@
+- configuration
+- tests
+- make storage less shit
+- implement GetPeriod
+- statistics
